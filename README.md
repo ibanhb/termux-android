@@ -1,8 +1,9 @@
 # termux-android
 script de actualizacion una ves instalado este terminal en nuestro device android
-para q e script funcione se tiene que instala el paquet zsh
 
-la paqueteria que se instalara sera la siguiente.
+Para que script funcione se tiene que instala el paquet zsh
+
+La paqueteria que se instalara sera la siguiente.
 
 bash-completion
 binutils
